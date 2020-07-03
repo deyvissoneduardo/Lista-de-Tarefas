@@ -1,6 +1,7 @@
 # listadetarefas
 
-A new Flutter project.
+ <h3>Lista de tarefas com banco local</h3>
+ <h5> desenvolvido em dart </h5>
 
 ## Getting Started
 
